@@ -1,0 +1,11 @@
+﻿## Interface: 100002
+## Title: TextCollector
+## Version: 10.02
+## Notes: AddOn collects all text of quests, gossip, bubbles, items, spells, talents from current realm of WoW
+## Author: icednicco
+## eMail: -
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: TC_C, TC_Q, TC_G, TC_B, TC_I, TC_S, TC_T, TC_H, TC_M, TC_K
+
+TextCollector.lua
